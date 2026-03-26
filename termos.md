@@ -28,4 +28,4 @@ Reservamo-nos o direito de modificar, suspender ou descontinuar o aplicativo (ou
 Você pode encerrar sua conta e solicitar a exclusão de seus dados a qualquer momento, diretamente pelas configurações do aplicativo. O Aromatico também se reserva o direito de suspender ou banir contas que violem estes termos, tentem fraudar o sistema de recomendação ou usem o aplicativo para fins ilícitos.
 
 ### 7. Contato
-Para dúvidas, suporte ou questões relacionadas a estes Termos de Uso, entre em contato através do e-mail: **[SEU_EMAIL_DE_SUPORTE@EXEMPLO.COM]**
+Para dúvidas, suporte ou questões relacionadas a estes Termos de Uso, entre em contato através do e-mail: **aromaticosuporte@gmail.com**
